@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>Landing Page Design Using HTML & CSS</title>
+    </head>
+    <body >
+        <div class="header">
+            <h1 class="see"> LAKME
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="https://www.lakmeusa.com/kblonde">Home</a></li>
+                    <li><a href="https://www.lakmeusa.com/brands">Brands</a></li>
+                    <li><a href="https://www.lakmeusa.com/products">Products</a></li>
+                    <li><a href="https://www.lakmeusa.com/events">Education</a></li>
+                </ul>
+            </nav>
+            <button class="btn" id="btn1">Log In</button>
+            <button class="btn" id="btn2">Sign Up</button><br><br>
+            <br>
+            
+        </div>
+        <br>
+        <div class="container"><br>
+        <div class="content">
+            <div class="text">
+                <h1><br><span>  
+                    <br>                                         <br>                                                                                     <br>     <br>      <br>      <br></span></h1>
+                <p></p><br>
+            <a href="https://shop.lakmeusa.com/"><button class="btn" id="btn3">Click me</button></a>
+           </div>
+        
+       </div>
+    </div>
+    <footer>
+		<p>©21-21 Broadway, Fair Lawn, New Jersy 07410 • 877.525.6308 • Info@lakmeusa.com</p>
+	</footer>
+    </body>
+</html>
